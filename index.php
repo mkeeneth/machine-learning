@@ -1,1 +1,1 @@
-<?php include_once("simple-neural-network.html"); ?>
+<?php include_once("index.html"); ?>
